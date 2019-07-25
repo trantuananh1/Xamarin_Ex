@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\bin\Debug\netstandard2.0\BaiTapList_Airbnb.deps.json
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\bin\Debug\netstandard2.0\BaiTapList_Airbnb.dll
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\bin\Debug\netstandard2.0\ref\BaiTapList_Airbnb.dll
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\bin\Debug\netstandard2.0\BaiTapList_Airbnb.pdb
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.dll
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\ref\BaiTapList_Airbnb.dll
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.pdb
+C:\Users\ADMIN\Desktop\BaiTapList_Airbnb\BaiTapList_Airbnb\BaiTapList_Airbnb\obj\Debug\netstandard2.0\BaiTapList_Airbnb.csprojAssemblyReference.cache

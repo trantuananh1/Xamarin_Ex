@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\bin\Debug\netstandard2.0\AbsoluteLayout_BT.deps.json
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\bin\Debug\netstandard2.0\AbsoluteLayout_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\bin\Debug\netstandard2.0\ref\AbsoluteLayout_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\bin\Debug\netstandard2.0\AbsoluteLayout_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\ref\AbsoluteLayout_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\AbsoluteLayout_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\AbsoluteLayout_BT\AbsoluteLayout_BT\AbsoluteLayout_BT\obj\Debug\netstandard2.0\Exercise2.xaml.g.cs

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\bin\Debug\netstandard2.0\Grid_BT.deps.json
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\bin\Debug\netstandard2.0\Grid_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\bin\Debug\netstandard2.0\ref\Grid_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\bin\Debug\netstandard2.0\Grid_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\ref\Grid_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Grid_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Grid_BT\Grid_BT\Grid_BT\obj\Debug\netstandard2.0\Exercise2.xaml.g.cs

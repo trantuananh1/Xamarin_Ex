@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\bin\Debug\netstandard2.0\Navigation_BT.deps.json
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\bin\Debug\netstandard2.0\Navigation_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\bin\Debug\netstandard2.0\ref\Navigation_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\bin\Debug\netstandard2.0\Navigation_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\ref\Navigation_BT.dll
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\Navigation_BT.pdb
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\ActivityFeedPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Users\ADMIN\Desktop\Xamarin\Bai Tap\Navigation_BT\Navigation_BT\Navigation_BT\obj\Debug\netstandard2.0\UserProfilePage.xaml.g.cs
